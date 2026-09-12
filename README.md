@@ -1,1 +1,1 @@
-123
+I work at the intersection of law and technology, combining legal expertise with web development and digital solutions. My primary focus is LegalTech, developing websites, digital platforms, and legal databases that help make legal information and processes more accessible, structured, and efficient. At the same time, my work is not limited to the legal sector. I also develop web-based solutions for other fields, applying the same combination of technical skills, problem-solving, and attention to the specific needs of each project
